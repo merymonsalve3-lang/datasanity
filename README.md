@@ -1,6 +1,12 @@
-# DataSanity Streamlit Deploy
+# DataSanity
 
-Carpeta preparada para publicar DataSanity en Streamlit Community Cloud.
+DataSanity es una herramienta web creada con Streamlit para auditar bases de datos, detectar duplicados y generar dashboards automáticos a partir de archivos Excel o CSV.
+
+## Acceso a la aplicación
+
+[Entrar en DataSanity](https://datasanity.streamlit.app)
+
+> Nota: la aplicación está desplegada en Streamlit Cloud con acceso restringido. El acceso se habilita individualmente para usuarios autorizados.
 
 ## Contenido
 
