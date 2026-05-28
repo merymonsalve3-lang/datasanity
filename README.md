@@ -22,3 +22,6 @@ Carpeta preparada para publicar DataSanity en Streamlit Community Cloud.
 ## Nota
 
 No subas `venv`, `__pycache__`, archivos temporales ni bases de clientes reales al repositorio.
+## Autores
+
+DataSanity es un proyecto desarrollado conjuntamente por [Bruno Belón Madan](https://github.com/brunobelonmadan) y [María Monsalve Pérez](https://github.com/merymonsalve3-lang).
